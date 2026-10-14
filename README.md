@@ -1,5 +1,7 @@
 # mi-proyecto
 
+![CI Pipeline](https://github.com/Lavavago/mi-proyecto/actions/workflows/ci.yml/badge.svg)
+
 ## Ejecución local
 ```
 python -m venv venv
